@@ -5,7 +5,7 @@
 - I have spent over 8 months learning frontend development at coding bootcamp called "CODE360" where I gained my certification from. I can say for a fact I can build up responsive webpages from scratch.
 - 📫 How to reach me by emailing me: abdullahiakande77@gmail.com or giving me a call: 07721501331. 
 - I have completed series of frontend mentor projects which are not on my github unfortunately because I just started buildig up my github profile.
-- Check out my CV here, then vonatct for possible collabs! ![Abdullah_resume](https://github.com/Abdullahi18/Abdullahi18/assets/126182120/553ce144-4535-442a-abb4-ffd16601ea39)
+- Check out my CV here, then conatct for possible collabs! ![Abdullah_resume](https://github.com/Abdullahi18/Abdullahi18/assets/126182120/553ce144-4535-442a-abb4-ffd16601ea39)
 
 
    
