@@ -7,7 +7,8 @@
 - I have completed series of frontend mentor projects which are not on my github unfortunately because I just started buildig up my github profile.
 - Check out my CV here, then conatct for possible collabs!
 - 
-[CV for internship.pdf](https://github.com/Abdullahi18/Abdullahi18/files/13048023/CV.for.internship.pdf)
+[Abdullah_Resume.docx](https://github.com/user-attachments/files/16342770/Abdullah_Resume.docx)
+
 
 
    
