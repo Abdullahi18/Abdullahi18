@@ -6,8 +6,8 @@
 - 📫 How to reach me by emailing me: abdullahiakande77@gmail.com or giving me a call: 07721501331. 
 - I have completed series of frontend mentor projects which are not on my github unfortunately because I just started buildig up my github profile.
 - Check out my CV here, then conatct for possible collabs!
-- 
-[Abdullah_Resume.docx](https://github.com/user-attachments/files/16342770/Abdullah_Resume.docx)
+- [Abdullah_cv.pdf](https://github.com/user-attachments/files/16617335/Abdullah_cv.pdf)
+
 
 
 
