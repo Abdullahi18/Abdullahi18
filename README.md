@@ -1,14 +1,34 @@
-- 👋 Hi, I’m @Abdullahi18
-- 👀 I’m interested in collaborating with people on web development projects to grow my knowledge in this field
-- 🌱 I’m currently studying Coomputer Science and majoring in Cyber Security at the University Of Greenwich in UK.
-- 💞️ I’m looking to collaborate on various projects with different people no matter the difficulty, Because I am qualified to start working on projects now.
-- I have spent over 8 months learning frontend development at coding bootcamp where I gained my certification from. I can say for a fact I can build up responsive webpages from scratch.
-- 📫 How to reach me by emailing me: abdullahiakande77@gmail.com. 
-- I have completed series of frontend mentor projects which are not on my github unfortunately because I just started building up my github profile.
-- Check out my CV here, then conatct for possible collabs!
-- [Abdullah_cv.pdf](https://github.com/user-attachments/files/16765563/Abdullah_cv.pdf)
+👋 Hi, I'm Abdullah!
 
+I’m a passionate Frontend Developer and Cybersecurity enthusiast with a knack for creating intuitive and secure web applications. I’m currently studying Computer Science and majoring in Cyber Security at the University Of Greenwich in UK. My journey in technology has equipped me with strong problem-solving skills and a deep understanding of both the creative and technical aspects of web development.
 
+🔭 What I’m Working On:
+Building responsive and user-friendly web interfaces using HTML, CSS, and JavaScript.
+Enhancing my skills in frameworks like React.js to create dynamic single-page applications.
+Exploring cybersecurity principles to ensure robust and secure coding practices.
+
+💼 Professional Experience:
+Frontend Development: I have hands-on experience developing and maintaining websites, focusing on clean design and code efficiency. My portfolio includes projects that showcase my proficiency in modern web technologies and design principles.
+Cybersecurity: I’m constantly learning about the latest security threats and best practices to integrate them into my development process, ensuring that my applications are not only functional but also secure.
+
+🌱 Currently Learning:
+Advanced React.js and state management with Redux.
+Penetration testing and ethical hacking at the University of Greenwich to further deepen my cybersecurity knowledge.
+
+💡 Skills:
+Frontend: HTML, CSS, JavaScript, React.js, Bootstrap
+Design: UI/UX principles, responsive design, cross-browser compatibility
+Security: Basic cybersecurity concepts, secure coding practices
+
+🎯 Goals:
+To contribute to open-source projects in both frontend development and cybersecurity.
+To build applications that are not only aesthetically pleasing but also secure and reliable.
+📫 How to Reach Me:
+
+Email: abdullahiakande77@gmail.com
+LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/abdullah-akande-36479a324?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCDHfYxb1Rgih5T6kOGFfxw%3D%3D)
+
+CV : [Abdullah_cv.pdf](https://github.com/user-attachments/files/16765563/Abdullah_cv.pdf)
 
 
 
