@@ -28,7 +28,9 @@ To build applications that are not only aesthetically pleasing but also secure a
 Email: abdullahiakande77@gmail.com
 LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/abdullah-akande-36479a324?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCDHfYxb1Rgih5T6kOGFfxw%3D%3D)
 
-CV : [Abdullah_cv.pdf](https://github.com/user-attachments/files/16765563/Abdullah_cv.pdf)
+CV : [Abdullah_cv.pdf](https://github.com/user-attachments/files/16998953/Abdullah_cv.pdf)
+
+
 
 
 
